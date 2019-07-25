@@ -1,4 +1,4 @@
-package Test;
+package andios_.javabean;
 
 public class Person {
     private String name;
